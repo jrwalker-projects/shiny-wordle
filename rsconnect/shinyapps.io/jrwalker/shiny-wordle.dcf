@@ -1,0 +1,13 @@
+name: shiny-wordle
+title: shiny-wordle
+username:
+account: jrwalker
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5588456
+bundleId: 5547218
+url: https://jrwalker.shinyapps.io/shiny-wordle/
+when: 1644093348.0255
+lastSyncTime: 1644093348.02552
+asMultiple: FALSE
+asStatic: FALSE
