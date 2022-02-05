@@ -1,6 +1,10 @@
 # https://eslforums.com/5-letter-words/
 # http://www.poslarchive.com/math/scrabble/lists/common-5.html
 
+words_result <- c(
+  'stack'
+)
+
 words_common <- c(
   'aback',
   'abase',
